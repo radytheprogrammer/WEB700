@@ -1,3 +1,3 @@
 # WEB700
 
-Assigment 4 moving into 5
+Assigments 1 - 6. One feature at a time
